@@ -35,40 +35,7 @@ The agent follows a continuous **Observe → Think → Act** loop:
 
 ---
 
-## 🚀 Getting Started
 
-### 1. Clone the repo
-```bash
-git clone https://github.com/YOUR_USERNAME/ai-system-health-guardian.git
-cd ai-system-health-guardian
-```
-
-### 2. Install dependencies
-```bash
-pip install psutil
-```
-
-### 3. Run the agent
-```bash
-python health_guardian.py
-```
-
-Press `Ctrl+C` to stop.
-
----
-
-## ⚙️ Configuration
-
-Edit these values at the top of `health_guardian.py`:
-
-```python
-CPU_THRESHOLD  = 85   # Alert when CPU  > 85%
-RAM_THRESHOLD  = 90   # Alert when RAM  > 90%
-DISK_THRESHOLD = 95   # Alert when Disk > 95%
-CHECK_INTERVAL = 5    # Check every 5 seconds
-```
-
----
 
 ## 📁 Project Structure
 
