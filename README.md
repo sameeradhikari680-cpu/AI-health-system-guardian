@@ -115,26 +115,6 @@ Now I will run the project. As you can see, the terminal shows current CPU, RAM,
 
 This project is useful because it improves user awareness, helps detect system problems early, and supports better computer performance.
 
-## LinkedIn Post
-
-I am excited to share my project: AI System Health Guardian.
-
-This is a Python-based intelligent monitoring agent that observes computer performance, detects unhealthy system conditions, and alerts the user automatically.
-
-The project solves a real-world problem where computers become slow because users do not notice high CPU usage, high RAM usage, high disk usage, or heavy background processes early. My system continuously monitors CPU, RAM, and disk usage, applies rule-based decision logic, shows alerts, suggests actions, and saves logs for analysis.
-
-The agent follows an Observe → Think → Act loop:
-
-- Observe: Monitor CPU, RAM, disk usage, and processes
-- Think: Detect unhealthy conditions using threshold rules
-- Act: Alert the user, suggest actions, and save logs
-
-Technologies used: Python, psutil, csv, datetime
-
-GitHub Link: Add your GitHub repository link here
-
-#Python #AI #AIAgent #SystemMonitoring #ComputerScience #StudentProject #GitHub
-
 ## Author
 
-Arbin Bhattarai
+Samir Adhikari
