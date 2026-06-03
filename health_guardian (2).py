@@ -4,8 +4,8 @@ AI System Health Guardian
 An intelligent monitoring agent that observes system performance,
 detects unhealthy conditions, and alerts the user automatically.
 
-Author: [Your Name]
-GitHub: [Your GitHub Link]
+Author: samir adhikari
+
 """
 
 import psutil
